@@ -4,6 +4,8 @@
 .settings
 .vagrant
 .gradle
+build
+oracle-installer/*.zip
 
 *.iml
 *.ipr
